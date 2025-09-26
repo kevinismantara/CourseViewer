@@ -33,7 +33,7 @@ Before running this application, make sure you have the following installed:
 1. **Clone the repository** (if not already done):
    ```bash
    git clone <repository-url>
-   cd TophatInterview
+   cd CourseViewer
    ```
 
 2. **Install dependencies**:
