@@ -6,9 +6,7 @@ A React TypeScript application that allows users to search and visualize course 
 
 - **Course Search**: Search for courses using a text-based query
 - **Tree Visualization**: Display course hierarchies in an organized tree structure
-- **Real-time Data**: Fetch course data from a live API endpoint
 - **Error Handling**: Comprehensive error handling with user-friendly messages
-- **Responsive Design**: Mobile-friendly interface using Bootstrap
 - **Type Safety**: Full TypeScript support for better development experience
 
 ## Tech Stack
