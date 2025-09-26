@@ -29,7 +29,7 @@ describe('SearchResultsDisplay', () => {
   })
 
   it('shows error when present', () => {
-    const err = new Error('boom')
+    const err = new Error('There is an issue with the data')
     render(
       <SearchResultsDisplay
         data={undefined}
@@ -38,6 +38,6 @@ describe('SearchResultsDisplay', () => {
         hasSearched={true}
       />
     )
-    expect(screen.getByText(/boom/i)).toBeInTheDocument()
+    expect(screen.getByText(/There is an issue with the data/i)).toBeInTheDocument()
   })
 })
