@@ -1,4 +1,4 @@
-# Course Tree Search Viewer
+# Course Viewer
 
 A React TypeScript application that allows users to search and visualize course hierarchies in a tree structure. 
 
